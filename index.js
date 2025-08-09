@@ -1,7 +1,7 @@
 const mc = require('minecraft-protocol');
 
-const SERVER_HOST = 'Enter Server IP Here';
-const SERVER_PORT = Enter Port Here;
+const SERVER_HOST = 'MamaneAini2ForFree.aternos.me';
+const SERVER_PORT = 62455;
 const MC_VERSION = '1.21.1';    //Do Not Change The Version, Install Via Version Or Via Backward Depending On You'r Aternos Server Version.
 const USERNAME = 'AFKBot_ByRanger';
 
@@ -85,3 +85,4 @@ function startBot() {
 }
 
 startBot();
+
